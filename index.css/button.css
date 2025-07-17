@@ -1,0 +1,207 @@
+        .btn-1{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 900;
+            text-decoration: none;
+            color:rgb(190, 149, 58);
+            background: linear-gradient(rgb(104, 72, 3),rgb(102, 75, 17));
+            border: 0.05em solid rgb(78, 60, 19);
+            border-right: 0.3em;
+            padding: o.2em 0.5em;
+            text-shadow: 0 3px 2px #888;
+            box-shadow: 0 3px 3px #003;
+        }
+        .btn-1:hover{
+            transition: all o.5s linear;
+            border: 3px solid rgb(177, 135, 45)
+        }
+        .btn-1:active{
+            background: linear-gradient(rgb(59, 45, 13),rgb(49, 35, 4))
+        }
+
+        .btn-2{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 600;
+            text-decoration:none;
+            color: cornsilk;
+            background: linear-gradient(rgb(51, 5, 5),rgb(61, 22, 10));
+            border:0.08em dotted rgb(19, 3, 65) ;
+            border-radius: 0.3em;
+            padding: 0.3em 0.5em;
+            text-shadow: 0 3px 2px #888;
+            box-shadow: 0 3px 2px #000033;
+        }
+        .btn-2:hover{
+            transition: all 0.5s ease;
+            border: 3px dotted  rgb(19, 3, 65);
+        }
+        
+        .btn-2:active{
+                transition: all 0.5s linear;
+                border: 3px solid rgb(53, 50, 37);
+        }
+
+        .btn-3{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 500;
+            text-decoration: none;
+            color: lightcoral;
+            background:linear-gradient(rgb(175, 39, 39),rgb(190, 25, 25));
+            border: 0.01em solid  rgb(82, 12, 12);
+            border-radius: 15px 15px 0 0;
+            padding: 0.2em 0.5em;
+        }
+        .btn-3:hover{
+            transition: all 0.5s linear;
+            border: 3px solid rgb(39, 5, 5)
+        }
+        .btn-3:active{
+            background:linear-gradient(rgb(65, 29, 29),rgb(19, 2, 2));
+        }
+
+        .btn-4{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 500;
+            text-decoration: none;
+            color: lightcoral;
+            background:#FFF
+            border: 0.01em solid  rgb(82, 12, 12);
+            border-radius: 15px 15px 0 0;
+            padding: 0.2em 0.5em;
+        }
+        .btn-4:hover{
+            transition: all 0.5s linear;
+            border: 3px solid rgb(39, 5, 5)
+        }
+        .btn-4:active{
+            background:linear-gradient(rgb(175, 39, 39),rgb(190, 25, 25));
+        }
+
+        .btn-5{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 900;
+            text-decoration: none;
+            color:rgb(97, 245, 195);
+            background:linear-gradient(rgb(44, 124, 98),rgb(15, 73, 54));
+            border: 0.01em solid  rgb(82, 12, 12);
+            border-radius: 15px 15px 0 0 ;
+            padding: 0.2em 0.5em;
+            text-shadow:rgb(82, 12, 12) ;
+            box-shadow: rgb(39, 5, 5);
+        }
+        .btn-5:hover{
+            transition: all 0.5s ease-in;
+            border: 3px solid rgb(39, 5, 5)
+        }
+        .btn-5:active{
+            background:linear-gradient(rgb(9, 57, 63),rgb(13, 96, 102));
+        }
+        
+        .btn-6{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 500;
+            text-decoration: none;
+            color: coral;
+            background:linear-gradient(rgb(226, 195, 184),rgb(116, 101, 96))
+            border: 0.01em solid  rgb(82, 12, 12);
+            border-radius: 0.3em;
+            padding: 0.2em 0.5em;
+            text-shadow: 0 3px 2px #888;
+            box-shadow: rgb(39, 5, 5);
+        }
+        .btn-6:hover{
+            transition: all 0.5s linear;
+            border: 3px solid rgb(39, 5, 5)
+        }
+        .btn-6:active{
+            transition:all 0.5s ease-in;
+            border:3px solid ;
+        }
+        .btn-7{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 800;
+            text-decoration: none;
+            color:lightslategray;
+            background: linear-gradient(rgb(34, 48, 61)rgb(25, 53, 82)y);
+            border: 0.5em solid rgb(1, 29, 56);
+            border-radius: 0 0 15px 15px;
+            padding: 0.2em 0.5em;
+            text-shadow: 0 3px 3px rgb(43, 54, 65);    
+        }          
+        .btn-7:hover{
+            transition: all 0.5s linear;
+            border: 3px solid rgb(39, 5, 5)
+            }
+        .btn-7:active{
+            transition:all 0.5s ease-out;
+            border:3px solid #000;
+        }
+        .btn-8{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 800;
+            text-decoration: none;
+            color:lightslategray;
+            background: linear-gradient(rgb(34, 48, 61)rgb(25, 53, 82)y);
+            border: 0.5em solid rgb(1, 29, 56);
+            border-radius: 0 0 15px 15px;
+            padding: 0.2em 0.5em;
+            text-shadow: 0 3px 3px rgb(43, 54, 65);
+        }
+        .btn-8:hover{
+            transition: all 0.5s linear;
+            border: 3px solid rgb(0, 82, 177);
+        }
+        .btn-8:active{
+            background: linear-gradient(rgb(7, 0, 100),rgb(119, 117, 255));
+        }
+
+        .btn-9{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 900;
+            text-decoration: none;
+            color:rgb(190, 149, 58);
+            background: linear-gradient(rgb(104, 72, 3),rgb(102, 75, 17));
+            border: 0.05em solid rgb(78, 60, 19);
+            border-radius: 0.3em;
+            padding: o.2em 0.5em;
+            text-shadow: 0 3px 2px #888;
+            box-shadow: 0 3px 3px #003;
+        }
+        .btn-9:hover{
+            transition: all 0.5s radial;
+            border: 3px solid rgb(177, 135, 45)
+        }
+        .btn-9:active{
+            background: linear-gradient(rgb(59, 45, 13),rgb(49, 35, 4))
+        }
+        
+        .btn-10{
+            display: inline;
+            font-family: sans-serif;
+            font-weight: 600;
+            text-decoration:none;
+            color: cornsilk;
+            background: linear-gradient(rgb(51, 5, 5),rgb(61, 22, 10));
+            border:0.08em dotted rgb(19, 3, 65) ;
+            border-radius: 0.3em;
+            padding: 0.3em 0.5em;
+            text-shadow: 0 3px 2px #888;
+            box-shadow: 0 3px 2px #000033;
+        }
+        .btn-10:hover{
+            transition: all 0.5s ease;
+            border: 3px dotted  rgb(19, 3, 65);
+        }
+        
+        .btn-10:active{
+                transition: all 0.5s linear;
+                border: 3px solid rgb(128, 109, 26);
+        }
